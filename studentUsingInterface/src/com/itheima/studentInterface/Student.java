@@ -1,4 +1,4 @@
-package com.itheima.studentInfo;
+package com.itheima.studentInterface;
 
 public class Student {
     private String stuName;

@@ -1,4 +1,4 @@
-package com.itheima.studentInfo;
+package com.itheima.studentInterface.studentInfo;
 
 import java.util.ArrayList;
 import java.util.Scanner;

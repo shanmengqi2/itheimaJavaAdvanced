@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/itheima.iml" filepath="$PROJECT_DIR$/itheima.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentInfo/studentInfo.iml" filepath="$PROJECT_DIR$/studentInfo/studentInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentUsingInterface/studentUsingInterface.iml" filepath="$PROJECT_DIR$/studentUsingInterface/studentUsingInterface.iml" />
     </modules>
   </component>
 </project>

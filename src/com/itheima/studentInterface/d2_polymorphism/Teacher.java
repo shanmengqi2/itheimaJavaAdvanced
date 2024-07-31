@@ -1,4 +1,4 @@
-package com.itheima.d2_polymorphism;
+package com.itheima.studentInterface.d2_polymorphism;
 
 public class Teacher extends People{
     @Override

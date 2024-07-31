@@ -1,4 +1,4 @@
-package com.itheima.studentInfo;
+package com.itheima.studentInterface.studentInfo;
 
 public class App {
     public static void main(String[] args) {
